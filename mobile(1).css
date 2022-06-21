@@ -1,0 +1,193 @@
+    /* navigation bar */
+.navigation {
+    padding-left: 0px;
+    flex-direction: column;
+}
+
+.navigation h2{
+    font-size: 17px;
+    margin: 8px 0px -11px 63px;
+}
+    
+.navigation p{
+    font-size: 8px;
+}
+    
+.navigation span{
+    font-size: 7px;
+}
+
+.navigation img {
+    height: 6px;
+    width: 5px;
+}
+
+.navigation input[type="search"] {
+    width: 93%;
+    margin-left: 14px;
+}
+
+.navigation input[type="button"] {
+    display: none;
+}
+
+.navigation div{
+    margin-left: -42px;
+}
+
+.navigation ul a li {
+    display: none;
+}
+
+.navigation ul {
+    display: none;
+    }
+
+/* section */
+.section{
+    margin-top: 28px;
+    margin-left: -156px;
+    justify-content: center;
+}
+
+.section img{
+    height: 38px;
+    width: 35px;
+}
+
+.section p{
+    text-align: center;
+    font-weight: bold;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 10px;
+    
+}
+
+/* section 2 */
+.section2 #para{
+    font-size: 15px;
+}
+
+.section2 a img{
+    height: 200px;
+}
+
+.Dealsoftheday div img{
+    height: 83px;
+    width: 76px;
+}
+
+.section2 div{
+    margin-top:10px;
+}
+
+.section2 div p{
+    font-size: 7px;
+    text-align: center;
+}
+
+.section2 div a{
+    font-size: 7px;
+     text-align: center;
+}
+
+
+/* section 3 */
+.section3 #para2{
+    font-size: 15px;
+}
+
+.TrendingOffers div img{
+    height: 83px;
+    width: 76px;
+}
+
+.TrendingOffers div br{
+    display: none;
+}
+
+.section3 div{
+    margin-top:10px;
+}
+
+.section3 div p{
+    font-size: 7px;
+    text-align: center;
+}
+
+.section3 div a{
+    font-size: 7px;
+    text-align: center;
+}
+
+/* section 4 */
+.section4  #para3{
+    font-size: 15px;
+}
+
+.Summer22Essentials div img{
+    height: 83px;
+    width: 76px;
+}
+
+.section4 div{
+    margin-top:10px;
+}
+
+.section4 div p{
+    font-size: 7px;
+    text-align: center;
+}
+
+.section4 div a {
+    font-size: 7px;
+    text-align: center;
+}
+
+/* section 5 */
+.section5 div p{
+    font-size: 6px;
+    overflow: hidden;
+    margin-top: -27px
+}
+
+.section5 dl{
+    margin-top: -50px;
+}
+
+.section5 dt{
+    font-size:6px;
+    overflow:hidden;
+}
+
+.section5 dd{
+    font-size: 6px;
+    overflow:hidden;
+}
+
+      /* footer */
+
+.footer div ul{
+    display: none;
+}
+ 
+hr{
+    display:none;
+}
+
+.container{
+    margin-top: -81px;
+}
+    
+.container span{
+    font-size: 6px;    
+}
+    
+.container img{
+    padding-left: 9px;
+    height: 6px;
+}
+    
+.container p{
+    font-size: 6px;
+}  

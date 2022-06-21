@@ -1,0 +1,172 @@
+@media(min-width:755px) and (max-width:1282px){
+    /* navigation bar */
+.navigation{
+    padding-left: 0px;
+    flex-direction: column;
+}
+
+.navigation input[type = "search"]{
+    width: 97%;
+    margin-left: 14px;
+}
+
+.navigation input[type="button"]{
+    display:none;
+}
+
+.navigation div{
+    margin-left: -42px;
+}
+
+
+.navigation ul a li{
+    display: none;
+}
+.navigation ul{
+    display: none;
+}
+
+/* section */
+.section{
+    margin-top: 50px;
+    margin-left: -139px;
+    justify-content: center;
+}
+
+.section img{
+    height: 44px;
+    width: 43px;
+}
+
+.section p{
+    text-align: center;
+    font-weight: bold;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+}
+
+/* section 2 */
+.section2 #para{
+    font-size: 22px;
+}
+
+.Dealsoftheday div img{
+    height: 116px;
+    width: 106px;
+}
+
+.section2 div p{
+    font-size: 13px;
+    text-align: center;
+}
+
+.section2 div a{
+     font-size: 13px;
+     text-align: center;
+}
+
+/* section 3 */
+.section3 #para2{
+    font-size: 22px;
+}
+
+.TrendingOffers div img{
+    height: 116px;
+    width: 106px;
+}
+
+.TrendingOffers div br{
+    display: none;
+}
+
+.section3 div p{
+    font-size: 13px;
+    text-align: center;
+}
+
+.section3 div a{
+    font-size: 13px;
+    text-align: center;
+}
+
+/* section 4 */
+.section4  #para3{
+    font-size: 22px;
+}
+
+.Summer22Essentials div img{
+    height: 116px;
+    width: 106px;
+}
+
+.section4 div p{
+    font-size: 13px;
+    text-align: center;
+}
+
+.section4 div a {
+    font-size: 13px;
+    text-align: center;
+}
+
+/* section 5 */
+.section5 div p{
+    font-size: 11px;
+}
+
+.section5 dt{
+    font-size: 11px;
+}
+
+.section5 dd{
+    font-size: 11px;
+}
+}
+
+@media(min-width:1088px) and (max-width:1282px){
+    /* footer */
+.footer div ul{
+    grid-template-columns: repeat(6, 177px);
+    font-size: 9px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.container span{
+    font-size: 10px;
+  
+}
+
+.container img{
+    padding-left: 52px;
+    height: 12px;
+}
+
+.container p{
+    font-size: 10px;
+}
+}
+
+@media(min-width:755px) and (max-width:1088px){
+      /* footer */
+.footer div ul{
+    grid-template-columns: repeat(6, 116px);
+    font-size: 7px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.container span{
+    font-size: 8px;
+  
+}
+
+.container img{
+    padding-left: 31px;
+    height: 9px;
+}
+
+.container p{
+    font-size: 8px;
+}  
+}
